@@ -12,7 +12,7 @@ try
 	
 	set @start_date = GETDATE();
 	bulk insert bronze.crm_cst_info
-	from 'E:\DOWNLOADS E\sql-data-warehouse-project\sql-data-warehouse-project\datasets\source_crm\cust_info.csv'
+	from 'E:\DOWNLOADS E\data-warehouse-project\sql-data-warehouse-project\datasets\source_crm\cust_info.csv'
 	with (
 	firstrow= 2,
 	fieldterminator = ',',
