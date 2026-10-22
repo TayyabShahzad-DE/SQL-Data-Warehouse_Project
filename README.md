@@ -68,14 +68,3 @@ During this project, I strengthened my understanding of SQL Server, data warehou
 
 This project helped me improve my SQL skills, understand the data engineering workflow, and gain practical experience in building a data warehouse from raw data to analytical reporting.
 
-## 💭 How Can It Be Improved?
-
-- Automate ETL pipelines using Apache Airflow.
-- Integrate additional data sources and file formats.
-- Add data quality checks and validation rules.
-- Implement incremental data loading instead of full data reloads.
-- Build interactive dashboards using Power BI.
-- Add automated testing and data validation.
-- Improve pipeline monitoring and error handling.
-- Deploy the project to a cloud data warehouse.
-
